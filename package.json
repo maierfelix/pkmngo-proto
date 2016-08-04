@@ -1,6 +1,6 @@
 {
   "name": "pkmngo-proto",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Pokemon GO Protocol Wrapper",
   "license": "MIT",
   "repository": "https://github.com/maierfelix/pkmngo-proto",
@@ -19,6 +19,7 @@
     "protobuf"
   ],
   "dependencies": {
-    "protobufjs": "^5.0.1"
+    "protobufjs": "^5.0.1",
+    "walk": "^2.3.9"
   }
 }
